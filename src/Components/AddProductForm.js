@@ -26,16 +26,16 @@ function handleChange(event){
     })
 }
     return(
-        <div className>
-        <form onSubmit={handleSubmit} className>
-          <div className>
-          <input onChange={handleChange} type="text" name="product" placeholder="Crop product" />
+        <div className="container">
+        <form onSubmit={handleSubmit} className = "subo">
+          <div className = "fields">
+            <input onChange={handleChange} type="text" name="product" placeholder="Crop product" />
             <input onChange={handleChange} type="text" name="category" placeholder="Category" />
             <input onChange={handleChange} type="text" name="preparation" placeholder="land preparations and other operations" />
             <input onChange={handleChange} type="text" name="storage" placeholder="Product storage" />
             <input onChange={handleChange} type="text" name="markets" placeholder="Market information"/>
           </div>
-          <button className="ui button" type="submit">
+          <button className="butt" type="submit">
             Add information
           </button>
         </form>
