@@ -1,70 +1,24 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Farmers Assistant Tool
+#### The current application is a web app that enables individual farmers to access crucial information concerning crop production for high yields. The app also allows farmers to update the current database. The app is dated October 7, 2022.
+#### By **Simion Okola**
+## Live Link
+https://633f144ba4f6d70e14f3d43b--eloquent-pudding-c563fe.netlify.app/
+## Description
+The current app addresses the problem of centralized information on the production of various food crops in Kenya. Currently, farmers are forced to visit several websites to obtain information about different crops. The app, contains a database with important information concerning farming of various crops. It offers farmers insights into the best practices to apply for different crops to ensure high yields. Potential market prices are also indicated. 
+## Setup and Installation Requirements
+* The requirements for hosting of this app include domain name, hosting provider, and hosting plan. 
+* There are no additional codes required. No dependencies are required for this app to run. However, the app needs a     database and servers because the app fetches data for analysis. 
+* The database can be set internally (as a json file) or fetched from a url (public database). The most important issue is to ensure that the keys match so that right values are fetched. 
+## Known Bugs
+There are currently no issues that affect the functionality of the app. The stability of the wep app may, however, be influenced by the strength of network. It is recommended that one must have stable internet for efficient use. 
+## Technologies Used
+The app was developed using four technologies namely React, HTML v. 5, JavaScript, and CSS. 
+## Support and contact details
+This app represents the first version. In case a user encounters issues or experiences a bug, kindly feel free to reach the developer through simion.okola@student.moringaschool.com
+### License
+The App is an open source application licensed under MIT. The developer grants permission to: 
+* Commercial use
+* Modification
+* Distribution 
+The developer does not provide warranty and won't be held liable for any issue or problem that emanates from the use of the appp. 
+Copyright (c) {2022} **{Simion Okola}**
