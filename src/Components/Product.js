@@ -47,7 +47,7 @@ function Product({expenseAdded, categories}) {
                     </select>
                 </label>
                 <label class="label">
-                <br /> Note (land preparation etc):
+                <br />Land preparation:
                     <input class="inputFields" type={'text'} name='note' value={formData.note} onChange={handleChange}/>
                 </label>
 
