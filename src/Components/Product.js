@@ -55,7 +55,7 @@ function Product({expenseAdded, categories}) {
                 <br /> Sample url: 
                     <input class="inputFields" type={'text'} name='note' value={formData.note} onChange={handleChange}/>
                 </label>
-                <button id="join-btn" type={'submit'}> <br /> Add Product</button>
+                <button id="join-btn1" type={'submit'}> <br /> Add Product</button>
             </form>
         </section>
         </>

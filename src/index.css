@@ -12,7 +12,7 @@
   /* background: url(https://source.unsplash.com/TV2gg2kZD1o/1600x800); */
   background-repeat: no-repeat;
   position: absolute;
-  top: 50%;
+  top: 54%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 44%;
@@ -53,7 +53,7 @@
   padding: 0;
 }
 
-#join-btn {
+#join-btn1 {
   border: 1px solid rgba(10, 180, 180, 1);
   background: rgba(20, 20, 20, .6);
   font-size: 18px;
@@ -64,6 +64,19 @@
   transition: .4s;
   position: absolute;
   top: 81%;
+}
+
+#join-btn{
+  border: 1px solid rgba(10, 180, 180, 1);
+  background: rgba(20, 20, 20, .6);
+  font-size: 18px;
+  color: white;
+  margin-top: 20px;
+  padding: 10px 50px;
+  cursor: pointer;
+  transition: .4s;
+  position: absolute;
+  
 }
 
 .label{
