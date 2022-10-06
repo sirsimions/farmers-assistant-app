@@ -1,73 +1,100 @@
 {
-  "crops": [
+  "expenses": [
     {
       "id": 1,
+      "amount": 2,
       "product": "Maize",
       "category": "Cereal",
-      "preparation": " It is important to prepare the land early enough to allow weeds to dry and decompose before planting. Soil fertility management: Soil fertility can be managed through several strategies including, organic fertilizers/manures, and inorganic or chemical fertilizers. Organic fertilizers/manures Farmyard manure (FYM) can be applied either alone at a rate of 4 tonnes per acre. When FYM is used in combination with inorganic fertilizers half the recommended rates should be applied. Inorganic/chemical fertilizers Fertilizer recommendations are based on different agro-ecological zones and soil types. The main fertilizers used are Di-ammonium phosphate (DAP) at 50kg/acre (50kg bag/acre) (applied at planting), Calcium ammonium phosphate (CAN) at 92kg/acre (2 bags of 50kg each) topdressed when the plants are knee-high. However, farmers should follow the recommendations agreed during the KCEP validation workshop until further notice. Management of acid soils Liming is recommended for acidic soils. However, other fertilizers with a liming effect like MEA Mazao (100kg/acre), Mavuno basal (100 kg/acre) and Mavuno for topdressing (75 kg/acre) are recommended for acidic soils. Planting Planting time Planting should be done within the first two weeks of the onset of rains. It is recommended that there should be at least 30 cm of wet soil throughout the soil profile before sowing. While the hole is still moist, place two to three seeds in an evenly-spaced line in each hole, with one pip at each side and one in the on the other side. Cover the seeds using the soil heaped next to the hole to leave a level surface. Make sure no stones or heavy soil clods cover the seeds. Leave the mulch cover between the holes intact. Try to complete planting in a day to ensure an even germination and later, an even crop canopy, which will shade out any weed growth.",
+      "note": " It is important to prepare the land early enough to allow weeds to dry and decompose before planting. Soil fertility management: Soil fertility can be managed through several strategies including, organic fertilizers/manures, and inorganic or chemical fertilizers. Organic fertilizers/manures Farmyard manure (FYM) can be applied either alone at a rate of 4 tonnes per acre. When FYM is used in combination with inorganic fertilizers half the recommended rates should be applied. Inorganic/chemical fertilizers Fertilizer recommendations are based on different agro-ecological zones and soil types. The main fertilizers used are Di-ammonium phosphate (DAP) at 50kg/acre (50kg bag/acre) (applied at planting), Calcium ammonium phosphate (CAN) at 92kg/acre (2 bags of 50kg each) topdressed when the plants are knee-high. However, farmers should follow the recommendations agreed during the KCEP validation workshop until further notice. Management of acid soils Liming is recommended for acidic soils. However, other fertilizers with a liming effect like MEA Mazao (100kg/acre), Mavuno basal (100 kg/acre) and Mavuno for topdressing (75 kg/acre) are recommended for acidic soils. Planting Planting time Planting should be done within the first two weeks of the onset of rains. It is recommended that there should be at least 30 cm of wet soil throughout the soil profile before sowing. While the hole is still moist, place two to three seeds in an evenly-spaced line in each hole, with one pip at each side and one in the on the other side. Cover the seeds using the soil heaped next to the hole to leave a level surface. Make sure no stones or heavy soil clods cover the seeds. Leave the mulch cover between the holes intact. Try to complete planting in a day to ensure an even germination and later, an even crop canopy, which will shade out any weed growth.",
       "image": "https://media.istockphoto.com/photos/green-cornfield-ready-for-harvest-late-afternoon-light-sunset-picture-id168351414?b=1&k=20&m=168351414&s=612x612&w=0&h=WwlSdA0ZOFtW46sTLXsOgIo61k7RfLIodNzXVe4sAUs=",
       "marketInfo": "Maize in Kenya is mainly sold to the National Cereals and Produce Board (NCPB). The farmers also sell directly to the millers who are located in major towns of Nairobi, Kisumu, Nakuru and Kitale."
+      
     },
     {
       "id": 2,
+      "amount": 4,
       "product": "Tomato",
       "category": "Vegetable",
-      "preparation": "Tomatoes can be planted in one of many different arrangements that provide adequate space for plant growth. Often the spacing is based on the type of trellising and equipment that will be used in the field. The within-row and between-row spacings are selected to meet these limitations. The optimal plant population per acre may also be influenced by plant growth habit (compact, spreading), plant size at maturity (small, medium, large), vigor of specific cultivars, climate, soil moisture, nutrient availability, management system and soil productivity.Generally, for production of determinate varieties on plastic mulch, a minimum of 5 feet between rows is used with an in-row spacing of 18 to 24 inches. Six feet between rows is also a popular interval. To space plants 22 inches apart in rows that are 5 feet apart requires 4,760 plants per acre. With 6-foot centers and 18 inches between plants, 4,840 plants are required per acre. Usually a single row of tomatoes is planted down the center of each plastic mulched bed.On bare ground, space rows 48 to 72 inches apart with 18 inches to 24 inches between plants in the row. For indeterminate types of tomatoes, which produce larger plants, adjust spacing to decrease the population accordingly.",
+      "note": "Tomatoes can be planted in one of many different arrangements that provide adequate space for plant growth. Often the spacing is based on the type of trellising and equipment that will be used in the field. The within-row and between-row spacings are selected to meet these limitations. The optimal plant population per acre may also be influenced by plant growth habit (compact, spreading), plant size at maturity (small, medium, large), vigor of specific cultivars, climate, soil moisture, nutrient availability, management system and soil productivity.Generally, for production of determinate varieties on plastic mulch, a minimum of 5 feet between rows is used with an in-row spacing of 18 to 24 inches. Six feet between rows is also a popular interval. To space plants 22 inches apart in rows that are 5 feet apart requires 4,760 plants per acre. With 6-foot centers and 18 inches between plants, 4,840 plants are required per acre. Usually a single row of tomatoes is planted down the center of each plastic mulched bed.On bare ground, space rows 48 to 72 inches apart with 18 inches to 24 inches between plants in the row. For indeterminate types of tomatoes, which produce larger plants, adjust spacing to decrease the population accordingly.",
       "storage": "Fully ripe tomatoes can be stored for 4-7 days at 45-50ºF. If slightly underripe, this time can be extended to 2-3 weeks. Do not refrigerate until ripe. Tomatoes picked green in the fall can be wrapped individually in newspaper and stored for months in a cool, but not freezing location",
       "image": "https://images.pexels.com/photos/5012854/pexels-photo-5012854.jpeg?auto=compress&cs=tinysrgb&w=600",
       "markets": "Market prices of tomatoes have gone down. Prior to 2019, one kg of tomatoes was going for US$0.79 in 2017 and US$1.41 in 2018. In 2019 the export price changed to $2.78 per kilo, by 97.133%. Some of the best performing markets in 2019 for Kenya tomatoes per kg were from exports to the Netherlands, DRC Congo, Qatar, United Kingdom (UK) and United Arab Emirates (UAE)"
     },
     {
       "id": 3,
+      "amount": 7,
       "product": "Onions",
       "category": "Vegetable",
-      "preparation": "Prepare the soil so that there are no lumps. Raised beds will stop seeds being washed away by rain. Dig deep into the bed so the onions can grow good roots. week before planting, mix well-rotted manure into the soil. Plant seeds 8 cm apart in rows 15 cm apart. Cover the seeds with soil.Water the seeds. Add dry grass as mulch. This will protect the soil and keep water in. Once they germinate remove mulch & spray with",
+      "note": "Prepare the soil so that there are no lumps. Raised beds will stop seeds being washed away by rain. Dig deep into the bed so the onions can grow good roots. week before planting, mix well-rotted manure into the soil. Plant seeds 8 cm apart in rows 15 cm apart. Cover the seeds with soil.Water the seeds. Add dry grass as mulch. This will protect the soil and keep water in. Once they germinate remove mulch & spray with",
       "storage": "Store onions in a cool, dry, well-ventilated area. Maintain storage temperature of 45-55°F. Do not wrap onions in plastic or store in plastic bags. A lack of air circulation will reduce shelf life. Onions should feel firm and dry, be free of gray or black mold, and should not have any visible sprouting. Some loose skins are normal",
       "image": "https://images.pexels.com/photos/9051683/pexels-photo-9051683.jpeg?auto=compress&cs=tinysrgb&w=600",
       "markets": ""
     },
     {
       "id": 4,
+      "amount": 3,
       "product": "Beans",
       "category": "Vegetables",
-      "preparation": "Dry beans are adapted to a wide range of soils. Dry beans are not sensitive to soil type as long as the soil is reasonably fertile, well-drained and free of conditions that interfere with germination and plant emergence, such as salinity. Growing the crop on a well-drained soil is essential because beans are extremely sensitive to standing water or waterlogged conditions. Tile drainage will reduce saturated conditions in the root zone, which will improve plant development. The majority of dry bean acres are tilled conventionally; however, dry beans can be grown successfully in conservation tillag systems. For example, five site-years of research at Carrington indicate similar seed yield with strip tillage (2,590 pounds per acre), compared with yield with conventional tillage (2,620 pounds per acre). Winter rye can be used as a cover crop during the prior fall and sprig before dry bean plant establishment for benefits including reduction of soil erosion, soil water management, weed suppression and long-term improvement in soil productivity. Termination timing of rye is based on bean planting date and benefits of extending rye growth, while maintaining adequate soil moisture for bean seed yield. A three-year study at Carrington indicates that with marginal spring soil moisture, rye needs to be terminated two to four weeks before bean planting to maintain yield similar to a conventional bean production system.",
+      "note": "Dry beans are adapted to a wide range of soils. Dry beans are not sensitive to soil type as long as the soil is reasonably fertile, well-drained and free of conditions that interfere with germination and plant emergence, such as salinity. Growing the crop on a well-drained soil is essential because beans are extremely sensitive to standing water or waterlogged conditions. Tile drainage will reduce saturated conditions in the root zone, which will improve plant development. The majority of dry bean acres are tilled conventionally; however, dry beans can be grown successfully in conservation tillag systems. For example, five site-years of research at Carrington indicate similar seed yield with strip tillage (2,590 pounds per acre), compared with yield with conventional tillage (2,620 pounds per acre). Winter rye can be used as a cover crop during the prior fall and sprig before dry bean plant establishment for benefits including reduction of soil erosion, soil water management, weed suppression and long-term improvement in soil productivity. Termination timing of rye is based on bean planting date and benefits of extending rye growth, while maintaining adequate soil moisture for bean seed yield. A three-year study at Carrington indicates that with marginal spring soil moisture, rye needs to be terminated two to four weeks before bean planting to maintain yield similar to a conventional bean production system.",
       "storage": "Legume (Bean) varieties such as: Adzuki, Black, Black-eyed, Black Turtle, Garbanzo, Great Northern, Kidney, Lentils, Lima, Mung, Navy, Pink, Pinto, Small Red, Soy, and Split-pea can all be dried and stored.",
       "image": "https://images.pexels.com/photos/6316670/pexels-photo-6316670.jpeg?auto=compress&cs=tinysrgb&w=600",
       "markets": "A regional segment for the market of edible beans is divided into five different regions: North America, Latin America, Asia Pacific, Europe, and MEA. Among these segment, Asia Pacific is expected to have the major market share globally. Moreover, North America has also emerged as a prominent market for edible beans, as the popularity of organic beans is increasing to a significant level in this region"
     },
     {
       "id": 5,
+      "amount": 2,
       "product": "Carrots",
       "category": "tuber",
-      "preparation": "Simple method to prepare the soil for growing healthy Carrots is: Create a deep soil bed with a depth of 10-12 inches. Fertilize the soil with phosphorous. Balance the pH of the soil (6.0-6.8). Keep the soil moist enough for the plants to perform better. Cover the exposed part of the Carrots with mound soil or mulch. Treat the soil with recommended fungicides to avoid the occurrence of soil pessticides.",
+      "note": "Simple method to prepare the soil for growing healthy Carrots is: Create a deep soil bed with a depth of 10-12 inches. Fertilize the soil with phosphorous. Balance the pH of the soil (6.0-6.8). Keep the soil moist enough for the plants to perform better. Cover the exposed part of the Carrots with mound soil or mulch. Treat the soil with recommended fungicides to avoid the occurrence of soil pessticides.",
       "storage": "Freezing is the common preservation used commercially for most vegetables including carrots. It can slow down the enzymes that trigger spoilage and keep some of the nutrients intact. Freezing carrots requires blanching before you freeze the carrots for a long time.",
       "image": "https://images.pexels.com/photos/5501763/pexels-photo-5501763.jpeg?auto=compress&cs=tinysrgb&w=600",
       "markets": "Kenya's leading export markets for carrots are Uganda, Somalia, France, United Kingdom (UK) and United Arab Emirates (UAE)."
     },
     {
       "id": 6,
+      "amount": 4,
       "product": "cabbages",
       "category": "Vegetables",
-      "preparation": "Before you start planting cabbage, a farmer has to allocate land where the activity has to be done from and this should be well-prepared some weeks before planting the seedlings. As soon as the seeds are planted in the nursery bed, plough the land (main garden). If the land is being operated for the first time, it should be plowed twice at two weeks’ intervals to minimize the growth of weeds. Cabbage grows in well-drained soil and is rich in organic matter. The soil should be well tilled and sufficiently drained but must allow good water retention, this is because Cabbage requires a great deal of water. The farmer should first test the soil for fertility and a pH (pH is a measure of acidity and alkalinity in soils) of 6 to 7 is what the cabbages need to grow well. You can add lime just in case the pH is lower and the amount of lime added will determined by the fertility rate of the soil. The soil testing can be done regularly and the agricultural lime should be applied six months before the planting takes place.The farmer should also note that it is ideal to plant cabbages in soil that has some clay in it.",
+      "note": "Before you start planting cabbage, a farmer has to allocate land where the activity has to be done from and this should be well-prepared some weeks before planting the seedlings. As soon as the seeds are planted in the nursery bed, plough the land (main garden). If the land is being operated for the first time, it should be plowed twice at two weeks’ intervals to minimize the growth of weeds. Cabbage grows in well-drained soil and is rich in organic matter. The soil should be well tilled and sufficiently drained but must allow good water retention, this is because Cabbage requires a great deal of water. The farmer should first test the soil for fertility and a pH (pH is a measure of acidity and alkalinity in soils) of 6 to 7 is what the cabbages need to grow well. You can add lime just in case the pH is lower and the amount of lime added will determined by the fertility rate of the soil. The soil testing can be done regularly and the agricultural lime should be applied six months before the planting takes place.The farmer should also note that it is ideal to plant cabbages in soil that has some clay in it.",
       "storage": "Cabbages should therefore be stored at a temperature of around 32°F (0°C), allowing only a few degrees of deviation in one direction. In this case, the humidity in the room can vary, but within a strictly defined range – from 85% to 95% (preferably no more and no less). Of course, such conditions can be created in specially designated storage areas, for example, in the cellar, in the basement of the house, or on the balcony. If the temperature is very high – for example above 41°F (5°C) – Cabbage buds may start to grow and, of course, in this case, they become more flaccid, less juicy, lose their attractiveness and lose most of their flavor.",
       "image": "https://images.pexels.com/photos/9176822/pexels-photo-9176822.jpeg?auto=compress&cs=tinysrgb&w=600",
       "markets": "For the well-known reason of satiating local demand first, the cabbage market in Kenya has two unequal divisions: local and export. As the following production areas reveal, exports are less than local retail. In Kiambu, Machakos and Nairobi where cabbages grow between 800 and 2400 meters in elevation, the crop is mostly destined to local homes."
     },
     {
       "id": 7,
+      "amount": 8,
       "product": "Wheat",
       "category": "Cereal",
-      "preparation": "Wheat usually requires deep fertile soils that are well-drained. The PH should be 5.5-7.5. You should know that your wheat is generally very sensitive to soil salinity. Altitude areas that cultivate wheat usually have an altitude of 1500-2900m above sea level. Wheat usually does well inadequate rainfall that ranges from 500-1300mm. A temperature of about 15.5 degrees Celsius is required during the growing season. The weather should be moist and warm during the early stages while dry and sunny during the later stages.",
+      "note": "Wheat usually requires deep fertile soils that are well-drained. The PH should be 5.5-7.5. You should know that your wheat is generally very sensitive to soil salinity. Altitude areas that cultivate wheat usually have an altitude of 1500-2900m above sea level. Wheat usually does well inadequate rainfall that ranges from 500-1300mm. A temperature of about 15.5 degrees Celsius is required during the growing season. The weather should be moist and warm during the early stages while dry and sunny during the later stages.",
       "storage": "https://images.pexels.com/photos/265216/pexels-photo-265216.jpeg?auto=compress&cs=tinysrgb&w=600",
       "markets": "In Kenya, the government buys wheat from farmers at reasonable prices. During the last wheat season, a 90 kg bag was going at Kshs.3400. If you want to be a wheat farmer in Kenya, you need to calculate your potential profits first before investing"
     },
     {
       "product": "Banana",
+      "amount": 1,
       "category": "fruit",
-      "preparation": "Plough deeply and irrigate well. Add manure and control pest timely",
+      "not": "Plough deeply and irrigate well. Add manure and control pest timely",
       "storage": "Airate or freeze",
       "markets": "Mostly Uganda",
       "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "vegetables"
+    },
+    {
+      "id": 2,
+      "name": "fruits"
+    },
+    {
+      "id": 3,
+      "name": "cereals"
+    },
+    {
+      "name": "tubers",
+      "id": 4
     }
   ]
 }
