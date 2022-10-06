@@ -9,7 +9,7 @@
 }
 
 .signupSection {
-  background: url(https://source.unsplash.com/TV2gg2kZD1o/1600x800);
+  /* background: url(https://source.unsplash.com/TV2gg2kZD1o/1600x800); */
   background-repeat: no-repeat;
   position: absolute;
   top: 50%;
@@ -21,7 +21,8 @@
   display: flex;
   color: white;
   box-shadow: 3px 10px 20px 5px rgba(0, 0, 0, .5);
-}
+  
+} 
 
 
 .signupForm {
@@ -29,6 +30,7 @@
   padding: 30px 0;
   background: rgba(20, 40, 40, .8);
   transition: .2s;
+  
 }
 
 .inputFields {
@@ -39,10 +41,11 @@
   border: 1px solid rgba(10, 180, 180, 1);
   border-top: none;
   border-left: none;
-  border-right: none;
+  border-right: none; 
   background: rgba(20, 20, 20, .2);
   color: white;
   outline: none;
+  
 }
 
 .noBullet {
@@ -59,4 +62,8 @@
   padding: 10px 50px;
   cursor: pointer;
   transition: .4s;
+}
+
+.label{
+  float: left;
 }

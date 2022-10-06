@@ -32,26 +32,26 @@ function Product({expenseAdded, categories}) {
         <section class="signupSection">
             
             <form class="signupForm" onSubmit={handleSubmit}>
-                <label>
+                <label class="label">
                     Crop: 
                     <input class="inputFields" type={'text'} name='product' value={formData.product} onChange={handleChange}/>
                 </label>
-                <label>
+                <label class="label">
                 <br /> Amount per unit: 
                     <input class="inputFields" type={'number'} name='amount' value={formData.amount} onChange={handleChange}/>
                 </label>
-                <label>
+                <label class="label">
                 <br /> Category: 
                     <select class="inputFields" name='category' value={formData.category} onChange={handleChange}>
                     {categoryOptionsUi()}
                     </select>
                 </label>
-                <label>
+                <label class="label">
                 <br /> Note (land preparation etc):
                     <input class="inputFields" type={'text'} name='note' value={formData.note} onChange={handleChange}/>
                 </label>
 
-                <label>
+                <label class="label">
                 <br /> Sample url: 
                     <input class="inputFields" type={'text'} name='note' value={formData.note} onChange={handleChange}/>
                 </label>
