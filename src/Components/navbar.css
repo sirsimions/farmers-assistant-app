@@ -1,6 +1,6 @@
 .inactive {
     display: inline-block;
-    width: 50px;
+    width: 57px;
     padding: 12px;
     margin: '0 6px 6px';
     text-decoration: none;
@@ -10,7 +10,7 @@
 
 .active {
     display: inline-block;
-    width: 50px;
+    width: 57px;
     padding: 12px;
     margin: '0 6px 6px';
     text-decoration: none;
