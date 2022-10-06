@@ -1,0 +1,19 @@
+.inactive {
+    display: inline-block;
+    width: 50px;
+    padding: 12px;
+    margin: '0 6px 6px';
+    text-decoration: none;
+    color: white;
+    background: rgb(67, 67, 226);
+}
+
+.active {
+    display: inline-block;
+    width: 50px;
+    padding: 12px;
+    margin: '0 6px 6px';
+    text-decoration: none;
+    color: white;
+    background: rgb(66, 66, 221);
+}
