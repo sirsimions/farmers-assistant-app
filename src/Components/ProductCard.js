@@ -6,7 +6,8 @@ function ProductCard({expense}) {
 
     return (
         <div>
-             <h4>{expense.product}</h4>
+            <img src = {expense.image} alt="crop image"/>
+            <h4>{expense.product}</h4>
             <h4>{expense.category}</h4>
             <p>{expense.date}</p>
             <h2>{formatAmount(expense.amount)}</h2>

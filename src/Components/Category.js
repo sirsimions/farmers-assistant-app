@@ -17,12 +17,12 @@ function Category({categoryAdded}) {
     return (
         <div>
             <h3>New Crop Category</h3>
-            <form onSubmit={handleSubmit}>
+            <form class="signupForm" onSubmit={handleSubmit}>
                 <label>
                     Name:
-                    <input type={'text'} name='categoryName' value={categoryName} onChange={handleChange} required/>
+                    <input class="inputFields" type={'text'} name='categoryName' value={categoryName} onChange={handleChange} required/>
                 </label>
-                <button type='submit'>Add Category</button>
+                <button id="join-btn" type='submit'>Add Category</button>
             </form>
         </div>
     ) 

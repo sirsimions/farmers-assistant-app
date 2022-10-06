@@ -1,15 +1,15 @@
 import {Routes, Route} from 'react-router-dom';
-import NavBar from './NavBar';
-import Product from './Product';
-import Category from './Category';
-import Home from './Home';
+import NavBar from './Components/NavBar';
+import Product from './Components/Product';
+import Category from './Components/Category';
+import Home from './Components/Home';
 import { useEffect, useState } from 'react';
 
 function App() {
   const [expenses, setExpenses] = useState([]);
   const [categories, setCategories] = useState([]);
-  const expensesUrl ='http://localhost:3004/expenses';
-  const categoriesUrl = 'http://localhost:3004/categories';
+  const expensesUrl ='http://localhost:3002/expenses';
+  const categoriesUrl = 'http://localhost:3002/categories';
 
   useEffect(fetchExpenses, []);
   useEffect(fetchCategories, []);

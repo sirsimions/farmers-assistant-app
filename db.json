@@ -8,7 +8,6 @@
       "note": " It is important to prepare the land early enough to allow weeds to dry and decompose before planting. Soil fertility management: Soil fertility can be managed through several strategies including, organic fertilizers/manures, and inorganic or chemical fertilizers. Organic fertilizers/manures Farmyard manure (FYM) can be applied either alone at a rate of 4 tonnes per acre. When FYM is used in combination with inorganic fertilizers half the recommended rates should be applied. Inorganic/chemical fertilizers Fertilizer recommendations are based on different agro-ecological zones and soil types. The main fertilizers used are Di-ammonium phosphate (DAP) at 50kg/acre (50kg bag/acre) (applied at planting), Calcium ammonium phosphate (CAN) at 92kg/acre (2 bags of 50kg each) topdressed when the plants are knee-high. However, farmers should follow the recommendations agreed during the KCEP validation workshop until further notice. Management of acid soils Liming is recommended for acidic soils. However, other fertilizers with a liming effect like MEA Mazao (100kg/acre), Mavuno basal (100 kg/acre) and Mavuno for topdressing (75 kg/acre) are recommended for acidic soils. Planting Planting time Planting should be done within the first two weeks of the onset of rains. It is recommended that there should be at least 30 cm of wet soil throughout the soil profile before sowing. While the hole is still moist, place two to three seeds in an evenly-spaced line in each hole, with one pip at each side and one in the on the other side. Cover the seeds using the soil heaped next to the hole to leave a level surface. Make sure no stones or heavy soil clods cover the seeds. Leave the mulch cover between the holes intact. Try to complete planting in a day to ensure an even germination and later, an even crop canopy, which will shade out any weed growth.",
       "image": "https://media.istockphoto.com/photos/green-cornfield-ready-for-harvest-late-afternoon-light-sunset-picture-id168351414?b=1&k=20&m=168351414&s=612x612&w=0&h=WwlSdA0ZOFtW46sTLXsOgIo61k7RfLIodNzXVe4sAUs=",
       "marketInfo": "Maize in Kenya is mainly sold to the National Cereals and Produce Board (NCPB). The farmers also sell directly to the millers who are located in major towns of Nairobi, Kisumu, Nakuru and Kitale."
-      
     },
     {
       "id": 2,
@@ -77,6 +76,22 @@
       "storage": "Airate or freeze",
       "markets": "Mostly Uganda",
       "id": 8
+    },
+    {
+      "product": "Grundnuts",
+      "category": "tubers",
+      "date": "Thu Oct 06 2022 17:33:16 GMT+0300 (East Africa Time)",
+      "note": "Plough the ground well and remove any weed",
+      "amount": "40",
+      "id": 9
+    },
+    {
+      "product": "",
+      "category": "cereals",
+      "date": "Thu Oct 06 2022 17:59:33 GMT+0300 (East Africa Time)",
+      "note": "Plat before the onset of rains. ",
+      "amount": 0,
+      "id": 10
     }
   ],
   "categories": [
@@ -95,6 +110,10 @@
     {
       "name": "tubers",
       "id": 4
+    },
+    {
+      "name": "African veges",
+      "id": 5
     }
   ]
 }

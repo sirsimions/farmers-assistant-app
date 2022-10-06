@@ -2,8 +2,8 @@ import { useState } from "react";
 
 function Product({expenseAdded, categories}) {
     const formObject = {
-        product: 'tomato',
-        category: 'vegetable',
+        product: '',
+        category: '',
         date: '',
         note: '',
         amount: 0,
@@ -26,30 +26,39 @@ function Product({expenseAdded, categories}) {
     };
 
     return (
-        <section>
-            <h3>New Product:</h3>
-            <form onSubmit={handleSubmit}>
+        <>
+        <small>Please feel free to add useful information to the current database pertaining crop production</small>
+        <h3>New Crop:</h3>
+        <section class="signupSection">
+            
+            <form class="signupForm" onSubmit={handleSubmit}>
                 <label>
-                    Note:
-                    <input type={'text'} name='note' value={formData.product} onChange={handleChange}/>
+                    Crop: 
+                    <input class="inputFields" type={'text'} name='product' value={formData.product} onChange={handleChange}/>
                 </label>
                 <label>
-                    Amount:
-                    <input type={'number'} name='amount' value={formData.amount} onChange={handleChange}/>
+                <br /> Amount per unit: 
+                    <input class="inputFields" type={'number'} name='amount' value={formData.amount} onChange={handleChange}/>
                 </label>
                 <label>
-                    Category:
-                    <select name='category' value={formData.category} onChange={handleChange}>
+                <br /> Category: 
+                    <select class="inputFields" name='category' value={formData.category} onChange={handleChange}>
                     {categoryOptionsUi()}
                     </select>
                 </label>
                 <label>
-                    Note:
-                    <input type={'text'} name='note' value={formData.note} onChange={handleChange}/>
+                <br /> Note (land preparation etc):
+                    <input class="inputFields" type={'text'} name='note' value={formData.note} onChange={handleChange}/>
                 </label>
-                <button type={'submit'}>Add Product</button>
+
+                <label>
+                <br /> Sample url: 
+                    <input class="inputFields" type={'text'} name='note' value={formData.note} onChange={handleChange}/>
+                </label>
+                <button id="join-btn" type={'submit'}> <br /> Add Product</button>
             </form>
         </section>
+        </>
     )
 }
 
