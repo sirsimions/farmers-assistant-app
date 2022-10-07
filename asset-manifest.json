@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/farmers-assistant-app/static/css/main.c2c91018.css",
-    "main.js": "/farmers-assistant-app/static/js/main.f25008c9.js",
+    "main.js": "/farmers-assistant-app/static/js/main.cc705310.js",
     "static/js/787.b7c92aac.chunk.js": "/farmers-assistant-app/static/js/787.b7c92aac.chunk.js",
     "index.html": "/farmers-assistant-app/index.html",
     "main.c2c91018.css.map": "/farmers-assistant-app/static/css/main.c2c91018.css.map",
-    "main.f25008c9.js.map": "/farmers-assistant-app/static/js/main.f25008c9.js.map",
+    "main.cc705310.js.map": "/farmers-assistant-app/static/js/main.cc705310.js.map",
     "787.b7c92aac.chunk.js.map": "/farmers-assistant-app/static/js/787.b7c92aac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2c91018.css",
-    "static/js/main.f25008c9.js"
+    "static/js/main.cc705310.js"
   ]
 }
