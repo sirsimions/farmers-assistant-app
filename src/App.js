@@ -8,8 +8,8 @@ import { useEffect, useState } from 'react';
 function App() {
   const [expenses, setExpenses] = useState([]);
   const [categories, setCategories] = useState([]);
-  const expensesUrl ='http://localhost:5000/expenses';
-  const categoriesUrl = 'http://localhost:5000/categories';
+  const expensesUrl ='http://localhost:3002/expenses';
+  const categoriesUrl = 'http://localhost:3002/categories';
 
   useEffect(fetchExpenses, []);
   useEffect(fetchCategories, []);
