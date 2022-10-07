@@ -92,6 +92,14 @@
       "note": "Plat before the onset of rains. ",
       "amount": 0,
       "id": 10
+    },
+    {
+      "product": "Coconuts",
+      "category": "nut",
+      "date": "Fri Oct 07 2022 13:15:41 GMT+0300 (East Africa Time)",
+      "note": "Grows well in sand soil",
+      "amount": "1",
+      "id": 11
     }
   ],
   "categories": [
@@ -114,6 +122,10 @@
     {
       "name": "African veges",
       "id": 5
+    },
+    {
+      "name": "nut",
+      "id": 6
     }
   ]
 }
