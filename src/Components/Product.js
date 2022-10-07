@@ -52,8 +52,8 @@ function Product({expenseAdded, categories}) {
                 </label>
 
                 <label class="label">
-                <br /> Sample url: 
-                    <input class="inputFields" type={'text'} name='note' value={formData.note} onChange={handleChange}/>
+                 Sample url: 
+                    <input class="inputFields" type={'text'} name='note' value={formData.image} onChange={handleChange}/>
                 </label>
                 <button id="join-btn1" type={'submit'}> <br /> Add Product</button>
             </form>
