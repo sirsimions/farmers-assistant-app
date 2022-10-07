@@ -8,8 +8,8 @@ import { useEffect, useState } from 'react';
 function App() {
   const [expenses, setExpenses] = useState([]);
   const [categories, setCategories] = useState([]);
-  const expensesUrl ='http://localhost:3002/expenses';
-  const categoriesUrl = 'http://localhost:3002/categories';
+  const expensesUrl ='https://simion2022.herokuapp.com/expenses';
+  const categoriesUrl = 'https://simion2022.herokuapp.com/categories';
 
   useEffect(fetchExpenses, []);
   useEffect(fetchCategories, []);
